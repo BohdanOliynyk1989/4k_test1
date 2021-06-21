@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "my work in node.js",
+  "mongoUri": "mongodb+srv://bohdan:12345@cluster0.vylyw.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
